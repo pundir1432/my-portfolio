@@ -244,7 +244,7 @@ const About = () => {
                   color: 'var(--primary-color)',
                   fontWeight: '500'
                 }}>
-                  University of Technology
+                  Punjab University 
                 </Typography>
                 <Typography variant="body2" className="text-muted mb-3" style={{ fontWeight: '500' }}>
                   2023 - 2026 | CGPA: 8.5/10
