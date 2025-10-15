@@ -128,7 +128,7 @@ const Home = () => {
         <Container>
           <Row className="align-items-center min-vh-100">
             <Col lg={6}>
-              <Typography variant="h2" component="h1" className="hero-title mt-lg-0 mt-3">
+              <Typography   className="hero-title mt-lg-0 mt-3">
                 Hi, I'm <span className="text-white">{nameText}<span className="cursor">|</span></span>
               </Typography>
               <Typography variant="h4" className="hero-subtitle mb-4">
